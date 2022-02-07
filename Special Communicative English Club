@@ -14,22 +14,4 @@
  </div>
 
 </main>
- #main{
-
-}
-#title{
-  text-align: center;
-}
-#image{
-  display: block;
-  margin: auto;
-  max-width: 620px;
-}
-#img-caption{
-  text-align: center;
-}
-@media only screen and (max-width: 620px) {
-  #title, #image, #img-caption {
-    width: 100%;
-  }
-}
+ 
